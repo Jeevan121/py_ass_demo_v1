@@ -32,3 +32,4 @@ services:
   
 volumes:
   node-modules:
+  flaskapp:
